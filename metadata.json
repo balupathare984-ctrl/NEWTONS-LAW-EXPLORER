@@ -1,0 +1,6 @@
+{
+  "name": "Newton's Laws Explorer",
+  "description": "An interactive physics app demonstrating Newton's three laws of motion with real-time simulations and interactive projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
